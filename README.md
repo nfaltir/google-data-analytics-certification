@@ -1,6 +1,9 @@
-# Google Data Analytics Certification
+# Google Data Analytics Certification 📜
 
-## Intro
+
+
+
+### Intro
 
 The Google Data Analytics Certification is offered by Google through Coursera. Its a certification that establishes the foundation of data analytics. The certification requires 8 courses with lessons (video lectures, readings, labs, quizzes) and an exam at the end of each course. You must pass all course exams with a 80% grade to get your certification. Google recommends 6 months to complete the certification, but ideally you can do it in less than a month or three/two weeks.
 
