@@ -307,7 +307,8 @@ sample size = 226.79
 print(705*.20)
 
 
-We take a sample of the most popular stations (30) and plot them on a map. These 30 stations account for about 684,897 or 20% of rides. What is see is a tight cluster around the business center of Chicago (NE). This area accounts for places that tourists frequent such as museums, parks,Cloud Gate, colleges, and businesses. I noticed that none of this top stations are closer towards the coast. The beach areas are great areas for stations for causal riders taking a scenic route.
+We take a sample of the most popular stations (30) and plot them on a map. These 30 stations account for about 684,897 or 20% of rides. What we see is a tight cluster around the business center of Chicago (NE). 
+This area accounts for places that tourists frequent such as museums, parks, Cloud Gate, colleges, and businesses. I noticed that none of these top stations are closer towards the coast. The beach areas are great for stations for causal riders taking a scenic route.
 
 
 Tests
@@ -319,21 +320,14 @@ ggplot(df_v2$months, aes(df_v2$months, fill = n)) +  # Create ggplot2 histogram 
        
 
 
-ASk
+ASk | Prepare | Analyze | Share | Act
 
-Prepare
-
-Analyze
-
-Share
-
-Act
 
 Findings
 
 Ride average is about 20.34 minutes. Casual riders tend to ride longer at an average of 45 minutes and member riders ride about  16 minutes
 
- Saturday is the most popular day of the Week for both casual and member riders
+Saturday is the most popular day of the Week for both casual and member riders
 
 Rides start low on Monday, then peaks on Saturday, then it drops off on Sunday.
 
